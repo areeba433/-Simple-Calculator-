@@ -1,2 +1,1 @@
-# -Simple-Calculator-
-This is a simple calculator
+"# SIMPLE_-CALCULATOR" 
